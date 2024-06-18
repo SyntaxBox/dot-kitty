@@ -69,12 +69,6 @@ color14 #93e0e3
 color15 #ffffff
 ```
 
-## Notes
-
-- Ensure that `curl` and other necessary dependencies are installed before running the script.
-- The script sets up symbolic links for `kitty` and `kitten` in `~/.local/bin`.
-- Adds `~/.local/bin` to the PATH if it's not already present in `.bashrc` and `.zshrc`.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
