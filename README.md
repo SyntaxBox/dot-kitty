@@ -75,35 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
-We welcome contributions to improve and expand this project! To contribute, please follow these steps:
-
-1. **Fork the Repository**: Create a personal fork of the repository on GitHub.
-2. **Clone Your Fork**: Clone your forked repository to your local machine.
-
-   ```bash
-   git clone https://github.com/cargopip/dot-kitty
-   cd dot-kitty
-   ```
-
-3. **Create a Branch**: Create a new branch for your feature or bug fix.
-
-   ```bash
-   git checkout -b feature-or-bugfix-name
-   ```
-
-4. **Make Changes**: Make your changes or additions. Ensure your code follows the project's coding standards and is properly documented.
-5. **Commit Changes**: Commit your changes with a clear and concise commit message.
-
-   ```bash
-   git add .
-   git commit -m "Description of your changes"
-   ```
-
-6. **Push Changes**: Push your changes to your forked repository.
-
-   ```bash
-   git push origin feature-or-bugfix-name
-   ```
+We welcome contributions to improve and expand this project! ALL PRs ARE WELCOME
 
 7. **Create a Pull Request**: Go to the original repository on GitHub and create a pull request from your forked repository and branch. Provide a detailed description of your changes and the reasons for them.
 
