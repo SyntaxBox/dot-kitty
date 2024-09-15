@@ -69,14 +69,9 @@ color14 #93e0e3
 color15 #ffffff
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 
 We welcome contributions to improve and expand this project! ALL PRs ARE WELCOME
-
-7. **Create a Pull Request**: Go to the original repository on GitHub and create a pull request from your forked repository and branch. Provide a detailed description of your changes and the reasons for them.
 
 We appreciate your efforts and contributions to the project. Thank you for helping make this project better!
